@@ -13,4 +13,6 @@ Change 5: -> by team mate for WI6- Login feature and added number
 
 Change 6: -> to work on CR1 and added arrow sign
 
+Change 7: -> WI7 in prgress related cart feature 
+
 
