@@ -1,11 +1,13 @@
 Hello world...
 
 
-Change: - added for WI1 with minot changes
+Change 1: - added for WI1 with minot changes
 
-Change: - to fix bug1
+Change 2: - to fix bug1
 
-Change: - by team mate for WI5-logout feature and added colon
+Change 3: - by team mate for WI5-logout feature and added colon
 
-Change: - to fix bug2
+Change 4: - to fix bug2
+
+Change 5: - by team mate for WI6- Login feature and added number
 
