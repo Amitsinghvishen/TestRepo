@@ -1,7 +1,7 @@
 Hello world...
 
 
-Change 1: -> Added for WI1 with minot changes.
+Change1: -> Added for WI1 with minot changes.
 
 Change 2: -> To fix bug1.
 
